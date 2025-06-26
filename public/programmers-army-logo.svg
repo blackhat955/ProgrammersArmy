@@ -1,0 +1,20 @@
+<svg width="170" height="60" viewBox="0 0 170 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="25" fill="#10B981" stroke="#059669" stroke-width="2"/>
+  
+  <!-- PA text in circle -->
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">PA</text>
+  
+  <!-- Main text -->
+  <text x="65" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+    PROGRAMMERS
+  </text>
+  <text x="65" y="42" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#1F2937">
+    ARMY
+  </text>
+  
+  <!-- Decorative elements -->
+  <rect x="62" y="46" width="80" height="2" fill="#10B981" rx="1"/>
+  <circle cx="150" cy="47" r="2" fill="#10B981"/>
+  <circle cx="158" cy="47" r="1.5" fill="#059669"/>
+</svg>
